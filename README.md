@@ -11,16 +11,16 @@ in ticket volume, response time, resolution time, and customer ratings.
 ## Dashboard Preview
 
 ### Page 1: Ticket Overview
-![Ticket Overview](dashboard/page-1-ticket-overview.png)
+![Ticket Overview](dashboard/CUSTOMER_SUPPORT_TICKET-01.png)
 
 ### Page 2: Ticket Analysis
-![Ticket Analysis](dashboard/page-2-ticket-analysis.png)
+![Ticket Analysis](dashboard/CUSTOMER_SUPPORT_TICKET-02.png)
 
 ### Page 3: Agent and City Analysis
-![Agent and City Analysis](dashboard/page-3-agent-and-city-analysis.png)
+![Agent and City Analysis](dashboard/CUSTOMER_SUPPORT_TICKET-03.png)
 
 ### Page 4: Problem Investigation
-![Problem Investigation](dashboard/page-4-problem-investigation.png)
+![Problem Investigation](dashboard/CUSTOMER_SUPPORT_TICKET-04.png)
 
 ## Key Features
 
@@ -49,4 +49,3 @@ in ticket volume, response time, resolution time, and customer ratings.
 
 **Pankti Ladava**
 
-B.Sc. IT Student | 3rd Year
